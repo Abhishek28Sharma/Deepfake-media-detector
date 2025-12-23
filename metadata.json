@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VeriSight AI - Deepfake Detection",
+  "description": "A cutting-edge deepfake detection tool that uses advanced AI to analyze images for authenticity, providing confidence scores and visual explainability.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
